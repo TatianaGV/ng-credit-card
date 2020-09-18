@@ -1,2 +1,2 @@
-# Credit_card
+# Credit card
 Template credit card for Angular
